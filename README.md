@@ -1,0 +1,2 @@
+# Weather-Forecasting-Using-Machine-Learning-for-Gurteen-Meteorological-Station
+I developed a machine learning pipeline to forecast daily maximum air temperature using historical weather data from the Gurteen meteorological station (Height: 75m, Latitude: 53.035). The project involved data cleaning, feature engineering, and application of multiple regression and ML models to predict temperature and compare their performance.
