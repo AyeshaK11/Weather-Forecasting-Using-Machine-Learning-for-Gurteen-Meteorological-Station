@@ -12,7 +12,7 @@ from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense, LSTM, SimpleRNN
 
 # Load data
-df = pd.read_csv('C:/Users/Ayesha/Downloads/09052025/dly1475.csv')
+df = pd.read_csv('09052025/forecating5.csv')
 df['date'] = pd.to_datetime(df['date'], dayfirst=True)
 df = df.sort_values('date')
 
